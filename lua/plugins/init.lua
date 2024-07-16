@@ -30,7 +30,7 @@ return {
   	"nvim-treesitter/nvim-treesitter",
   	opts = {
   		ensure_installed = {
-  			"vim", "lua", "vimdoc", "javascript", "html", "css", "java", "typescript", "rust", "python"
+  			"vim", "lua", "vimdoc", "html","javascript", "css", "java", "typescript", "rust", "python"
   		},
       highlight = {
         enable = true,
